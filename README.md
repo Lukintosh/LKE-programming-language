@@ -1,5 +1,5 @@
 # LKE-programming-language
-How to program in LKE!
+How to create an "ARMintosh" for Raspberry Pi 4!
 
 
 Installing LKE Extension on Mac & Linux
